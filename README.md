@@ -1,16 +1,18 @@
-## Hi there 👋
+Welcome to my GitHub profile! I am currently an undergraduate student majoring in Software Engineering at the School of Computer Science and Technology, Tongji University. 
+My primary interests lie in Machine Learning, and software engineering. 
 
-<!--
-**CyberObservers/CyberObservers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📚 Education
+- **Undergraduate**: School of Computer Science and Technology, Tongji University | Software Engineering
 
-Here are some ideas to get you started:
+#### 🛠 Skills
+- **Programming Language**：Python, C++, JavaScript, Java
+- **Machine Learning**：PyTorch
+- **WebDev**：FastAPI, SpringBoot, React.js, Vue.js
+- **Database**：MySQL, ClickHouse, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Current Goals
+- Multi-agent reinforcement learning in multi-UAV and drone delivery
+
+#### 📫 Contact me
+- Email: [zhuohangwu2003@gmail.com](mailto:zhuohangwu2003@gmail.com)
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/zhuohang-wu-b662a0336/))
