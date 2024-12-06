@@ -15,4 +15,4 @@ My primary interests lie in Machine Learning, and software engineering.
 
 #### 📫 Contact me
 - Email: [zhuohangwu2003@gmail.com](mailto:zhuohangwu2003@gmail.com)
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/zhuohang-wu-b662a0336/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zhuohang-wu-b662a0336/)
