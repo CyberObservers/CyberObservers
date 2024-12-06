@@ -3,6 +3,9 @@ My primary interests lie in Machine Learning, and software engineering.
 
 #### 📚 Education
 - **Undergraduate**: School of Computer Science and Technology, Tongji University | Software Engineering
+  
+#### 🌱 Current Goals
+- Multi-agent reinforcement learning in multi-UAV and drone delivery
 
 #### 🛠 Skills
 - **Programming Language**：Python, C++, JavaScript, Java
@@ -10,9 +13,4 @@ My primary interests lie in Machine Learning, and software engineering.
 - **WebDev**：FastAPI, SpringBoot, React.js, Vue.js
 - **Database**：MySQL, ClickHouse, PostgreSQL
 
-#### 🌱 Current Goals
-- Multi-agent reinforcement learning in multi-UAV and drone delivery
-
-#### 📫 Contact me
-- Email: [zhuohangwu2003@gmail.com](mailto:zhuohangwu2003@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zhuohang-wu-b662a0336/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberObservers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
